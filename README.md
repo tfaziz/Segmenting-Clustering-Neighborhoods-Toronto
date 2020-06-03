@@ -18,3 +18,10 @@ This is a way of :
 -then add dataframe df1 that contains latitude and longitude each postal code and merge df with dataframe df1
 
 ## Segmenting-Clustering-Neighborhoods-Toronto-3.ipynb 
+his is a way of :
+-scrapping table from Wikipedia
+-putting them in a dataframe
+-eliminating unnecessary words
+-removing missing values from tables
+-then add dataframe df1 that contains latitude and longitude each postal code and merge df with dataframe df1
+-explore, segmenting, and clustering neighborhoods in City of Toronto then visualize it
