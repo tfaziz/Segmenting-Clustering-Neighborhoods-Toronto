@@ -3,7 +3,11 @@
 This project is assignment week 3 of the Applied Data Science Capstone course
 
 ## Segmenting-Clustering-Neighborhoods-Toronto-1.ipynb 
-This is a way of scrapping table from Wikipedia, putting them in a dataframe, eliminating unnecessary words, and removing missing values from tables.
+This is a way of : 
+-scrapping table from Wikipedia
+-putting them in a dataframe
+-eliminating unnecessary words
+-removing missing values from tables.
 
 ## Segmenting-Clustering-Neighborhoods-Toronto-2.ipynb 
 This is a way of :
